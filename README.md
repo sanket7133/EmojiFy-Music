@@ -1,4 +1,4 @@
-# EmojiFy-Music - Music Recommendation Application Using Emotion Recognition
+# EmojiFy-Music - Music Recommendation Android Application Using Emotion Recognition
 
 ![Picture1](https://github.com/user-attachments/assets/5b1f18ed-dbe4-47e4-8d69-a21d458d2817)
 
