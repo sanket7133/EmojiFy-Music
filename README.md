@@ -1,5 +1,12 @@
 # EmojiFy-Music - Music Recommendation Android Application Using Emotion Recognition
 
+![WhatsApp Image 2024-07-28 at 23 25 33_a694f029](https://github.com/user-attachments/assets/5f2acc5d-d316-4bf5-b293-cec66555aa80)
+
+
+
+It is an academic project build as Final year project. It is an android app which recommends music based on your emotion . Its backbone or engine is its backend which runs the CNN to detect the emotion and recommends the music
+
+
 ![Picture1](https://github.com/user-attachments/assets/5b1f18ed-dbe4-47e4-8d69-a21d458d2817)
 
 ## Introduction
